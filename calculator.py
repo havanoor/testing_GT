@@ -18,3 +18,6 @@ def add (a,b):
 
 def helo():
     return "hekehele"
+
+def first():
+    return "FIrst"
